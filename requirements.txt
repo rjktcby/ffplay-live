@@ -2,3 +2,6 @@ autopep8
 pylint
 argparse
 ffmpeg-python
+numpy
+matplotlib
+pillow
